@@ -40,8 +40,10 @@ allure serve build/allure-results
 gradle clean demowebshop
 ```
 
-Jenkins: https://jenkins.autotests.cloud/job/AUTO-512/
-Allure: https://jenkins.autotests.cloud/job/AUTO-512/1/allure/
+* Jenkins: https://jenkins.autotests.cloud/job/AUTO-512/
+* Allure: https://jenkins.autotests.cloud/job/AUTO-512/1/allure/
+
+<img width="1432" alt="qa_guru" src="https://user-images.githubusercontent.com/30810268/142859699-841faf69-c084-4668-ba5e-97a787f6763e.png">
 
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 :blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
