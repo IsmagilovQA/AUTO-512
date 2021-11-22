@@ -40,5 +40,8 @@ allure serve build/allure-results
 gradle clean demowebshop
 ```
 
+Jenkins: https://jenkins.autotests.cloud/job/AUTO-512/
+Allure: https://jenkins.autotests.cloud/job/AUTO-512/1/allure/
+
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 :blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
